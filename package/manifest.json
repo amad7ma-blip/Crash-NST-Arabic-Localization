@@ -1,0 +1,36 @@
+{
+  "name": "Crash Bandicoot N. Sane Trilogy - Arabic Localization",
+  "version": "1.0.0",
+  "author": "V7dt1 / axxx503",
+  "target_exe": "CrashBandicootNSaneTrilogy.exe",
+  "override_relpath": "archives\\update.pak",
+  "update_pak_size": 20043850,
+  "update_pak_sha256": "27c1a2abcfec6936949c065a07cf569f2ac08821d8dab6ebc103e7b862cc5210",
+  "baseline_file_count": 179,
+  "core_original_hashes": {
+    "CrashBandicootNSaneTrilogy.exe": "170c61d37fb5277dd94b3e41f7a918f227b76bc67aa338f5c97f63ac317b6af3",
+    "build.xml": "1f03da42678f0659734036a923107f0898910d74d18c9eefa1f39d2745bb3449",
+    "archives/languagestartup.pak": "3ab19778729df80cdb5ebbed00dc9522462f3bbcfff3df4ae3184ad81ce71c7b",
+    "archives/legal.pak": "368c67449007f083a51e0260bba4ba5c9f4c2f873b16abcfc7154aad7ca478b6",
+    "archives/permanent.pak": "7bd0f5b9ef3d4f9e97cfbfa450bae0c46d1997bdc6b3b156e2e7eea0bce6036c",
+    "archives/permanent_pc.pak": "01d506012d0e497a3fd4a18bb6675dd4da2e27bd623d7fb429410c525c83512c",
+    "archives/juicedomain_permanent.pak": "b877424410a0984902869de32f7e29638502f7710455aea50a4792236732e196",
+    "archives/LooseFiles.pak": "a805845d120f30f8e96df85943c6eac82087c9411158264ccf9ef87442606eee",
+    "archives/essentialui.pak": "abe730e25fdf225beb60a5e2935ee80c2deba8b559a2bd780cd6fc7ddedcd849",
+    "archives/4ktextures_essentialui.pak": "e87b34892ac1347b0b0c4f1b63fac1b96c34ded8621a4f45c47082084f7241ff",
+    "archives/LoadingScreen_Crash.pak": "f7550ef4573c48a65b522fcb0d1e2f88ac54338b63c133711efbd8a9e36a0081",
+    "archives/JuiceDomain_Story.pak": "38efc5ea91b75ac9d23323ca75e730dfa58625d36067522123fa6eff65136d1a",
+    "archives/C1_StartScreen.pak": "3b828112440fd978c3d66014f4f314a8d076f96daff347f379d9ba0ee2dd4439",
+    "archives/L200_Hub.pak": "f82d0006641fb20356eeee291cfaea873273ad0132fbfbc6552c0213ff74a71a"
+  },
+  "fonts_used": [
+    {
+      "name": "Cairo",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "name": "Changa",
+      "license": "SIL Open Font License 1.1"
+    }
+  ]
+}
