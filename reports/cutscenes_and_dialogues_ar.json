@@ -1,0 +1,1740 @@
+{
+  "cutscenes": [
+    {
+      "name": "VV_Logo_Intro",
+      "archive": "VV_Logo_Intro.pak",
+      "game": "Shared",
+      "title_ar": "مقدمة شعار Vicarious Visions",
+      "specs": [
+        {
+          "shot_ui_logical": "cutscene/2017/Crash1/VV_Logo_Intro/VV_Logo_Intro_Shot01_ui.igz",
+          "shot_tag": "VVLogoS01",
+          "shot_start_global": 0.0,
+          "shot_dur": 28.8667,
+          "cues": [
+            {
+              "id": "Sub_VV_01",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 0.05,
+              "dur": 2.7,
+              "en": "Developed by Vicarious Visions.",
+              "ar": "من تطوير فيكاريوس فيجنز!"
+            },
+            {
+              "id": "Sub_VV_02",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 8.12,
+              "dur": 2.2,
+              "en": "It's Crash Bandicoot!",
+              "ar": "إنه كراش بانديكوت!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crash1_Intro_Cinematic",
+      "archive": "Crash1_Intro_Cinematic.pak",
+      "game": "Crash 1",
+      "title_ar": "المشهد الافتتاحي - كراش بانديكوت 1",
+      "specs": [
+        {
+          "shot_ui_logical": "cutscene/2017/Crash1/Crash1_Intro_Cinematic/Crash1_Intro_Cinematic_Shot01_ui.igz",
+          "shot_tag": "C1IntroS01",
+          "shot_start_global": 0.0,
+          "shot_dur": 5.3667,
+          "cues": [
+            {
+              "id": "Sub_C1_Intro_01",
+              "speaker": "د. نيتروس بريو",
+              "t_local": 1.65,
+              "dur": 6.7,
+              "en": "But Dr. Cortex, we haven't determined the cause of past failures!",
+              "ar": "ولكن يا دكتور كورتكس،\nلم نحدد سبب الإخفاقات السابقة بعد!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash1/Crash1_Intro_Cinematic/Crash1_Intro_Cinematic_Shot02_ui.igz",
+          "shot_tag": "C1IntroS02",
+          "shot_start_global": 5.3667,
+          "shot_dur": 16.3333,
+          "cues": [
+            {
+              "id": "Sub_C1_Intro_02",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 3.48,
+              "dur": 2.55,
+              "en": "Moron! This bandicoot will be my general,",
+              "ar": "أحمق! سيكون هذا البانديكوت قائدي،"
+            },
+            {
+              "id": "Sub_C1_Intro_03",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 6.13,
+              "dur": 4.55,
+              "en": "and he will lead my Cortex Commandos to world domination!",
+              "ar": "وسيقود كوماندوز كورتكس\nنحو السيطرة على العالم!"
+            },
+            {
+              "id": "Sub_C1_Intro_04",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 11.28,
+              "dur": 3.5,
+              "en": "This time, I shall reign triumphant!",
+              "ar": "هذه المرة، سأحقق النصر المبين!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash1/Crash1_Intro_Cinematic/Crash1_Intro_Cinematic_Shot03_ui.igz",
+          "shot_tag": "C1IntroS03",
+          "shot_start_global": 21.7,
+          "shot_dur": 20.0,
+          "cues": [
+            {
+              "id": "Sub_C1_Intro_05",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 4.0,
+              "dur": 4.95,
+              "en": "We are closer than ever before! Quickly! Into the Vortex!",
+              "ar": "إننا أقرب من أي وقت مضى!\nأسرع! إلى الدوامة!"
+            },
+            {
+              "id": "Sub_C1_Intro_06",
+              "speaker": "د. نيتروس بريو",
+              "t_local": 9.65,
+              "dur": 4.07,
+              "en": "But Dr. Cortex, the Vortex is not ready!",
+              "ar": "ولكن يا دكتور كورتكس، الدوامة ليست جاهزة!"
+            },
+            {
+              "id": "Sub_C1_Intro_07",
+              "speaker": "د. نيتروس بريو",
+              "t_local": 13.8,
+              "dur": 4.5,
+              "en": "We have no idea what it could do!",
+              "ar": "ليست لدينا أي فكرة عما قد تفعله!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash1/Crash1_Intro_Cinematic/Crash1_Intro_Cinematic_Shot04_ui.igz",
+          "shot_tag": "C1IntroS04",
+          "shot_start_global": 46.5667,
+          "shot_dur": 8.0,
+          "cues": [
+            {
+              "id": "Sub_C1_Intro_08",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 1.23,
+              "dur": 1.6,
+              "en": "Failure again!",
+              "ar": "فشل مجددا!"
+            },
+            {
+              "id": "Sub_C1_Intro_09",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 6.58,
+              "dur": 1.3,
+              "en": "Capture him!",
+              "ar": "أمسكوا به!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash1/Crash1_Intro_Cinematic/Crash1_Intro_Cinematic_Shot05_ui.igz",
+          "shot_tag": "C1IntroS05",
+          "shot_start_global": 54.5667,
+          "shot_dur": 4.0,
+          "cues": [
+            {
+              "id": "Sub_C1_Intro_10",
+              "speaker": "كراش بانديكوت",
+              "t_local": 1.93,
+              "dur": 1.2,
+              "en": "Uh-oh!",
+              "ar": "أوه، لا!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash1/Crash1_Intro_Cinematic/Crash1_Intro_Cinematic_Shot06_ui.igz",
+          "shot_tag": "C1IntroS06",
+          "shot_start_global": 58.5667,
+          "shot_dur": 9.7,
+          "cues": [
+            {
+              "id": "Sub_C1_Intro_11",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 1.63,
+              "dur": 3.1,
+              "en": "Prepare the female bandicoot!",
+              "ar": "جهزوا أنثى البانديكوت!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crash1_Boss_Outro_Cinematic",
+      "archive": "Crash1_Boss_Outro_Cinematic.pak",
+      "game": "Crash 1",
+      "title_ar": "مشهد هزيمة كورتكس (النهاية العادية) - كراش 1",
+      "specs": [
+        {
+          "shot_ui_logical": "cutscene/2017/Crash1/Crash1_Boss_Outro_Cinematic/Crash1_Boss_Outro_Cinematic_Shot01_ui.igz",
+          "shot_tag": "C1BossOutS01",
+          "shot_start_global": 0.0,
+          "shot_dur": 3.0333,
+          "cues": [
+            {
+              "id": "Sub_C1_BossOut_01",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 0.2,
+              "dur": 2.75,
+              "en": "Aaaah!",
+              "ar": "آااااااه!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash1/Crash1_Boss_Outro_Cinematic/Crash1_Boss_Outro_Cinematic_Shot02_ui.igz",
+          "shot_tag": "C1BossOutS02",
+          "shot_start_global": 3.0333,
+          "shot_dur": 13.5333,
+          "cues": [
+            {
+              "id": "Sub_C1_BossOut_02",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 0.05,
+              "dur": 3.15,
+              "en": "Aaaaah!",
+              "ar": "آااااااه!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crash2_Intro_Cinematic",
+      "archive": "Crash2_Intro_Cinematic.pak",
+      "game": "Crash 2",
+      "title_ar": "المشهد الافتتاحي - كراش بانديكوت 2",
+      "specs": [
+        {
+          "shot_ui_logical": "cutscene/2017/Crash2/Crash2_Intro_Cinematic/Crash2_Intro_Cinematic_Shot01_ui.igz",
+          "shot_tag": "C2IntroS01",
+          "shot_start_global": 0.0,
+          "shot_dur": 10.0333,
+          "cues": [
+            {
+              "id": "Sub_C2_Intro_01",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 0.51,
+              "dur": 6.0,
+              "en": "Aaaah!",
+              "ar": "آااااااه!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash2/Crash2_Intro_Cinematic/Crash2_Intro_Cinematic_Shot02_ui.igz",
+          "shot_tag": "C2IntroS02",
+          "shot_start_global": 10.0333,
+          "shot_dur": 21.1667,
+          "extra_cues": [
+            [
+              16.466667,
+              "Cinematic_Text"
+            ]
+          ],
+          "cues": [
+            {
+              "id": "Sub_C2_Intro_02",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 11.2,
+              "dur": 3.35,
+              "en": "Crystals... Of course!",
+              "ar": "البلورات... بالطبع!"
+            },
+            {
+              "id": "Sub_C2_Intro_03",
+              "speaker": "د. إن جين",
+              "t_local": 15.41,
+              "dur": 0.95,
+              "en": "No!",
+              "ar": "لا!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash2/Crash2_Intro_Cinematic/Crash2_Intro_Cinematic_Shot03_ui.igz",
+          "shot_tag": "C2IntroS03",
+          "shot_start_global": 31.2,
+          "shot_dur": 9.7,
+          "cues": [
+            {
+              "id": "Sub_C2_Intro_04",
+              "speaker": "د. إن جين",
+              "t_local": 2.01,
+              "dur": 4.8,
+              "en": "But Dr. Cortex, to reach full power,",
+              "ar": "ولكن يا دكتور كورتكس، لبلوغ الطاقة القصوى،"
+            },
+            {
+              "id": "Sub_C2_Intro_05",
+              "speaker": "د. إن جين",
+              "t_local": 6.87,
+              "dur": 2.8,
+              "en": "we need not only your Master Crystal,",
+              "ar": "لا نحتاج إلى بلورتك الرئيسية وحدها،"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash2/Crash2_Intro_Cinematic/Crash2_Intro_Cinematic_Shot04_ui.igz",
+          "shot_tag": "C2IntroS04",
+          "shot_start_global": 40.9,
+          "shot_dur": 12.7,
+          "cues": [
+            {
+              "id": "Sub_C2_Intro_06",
+              "speaker": "د. إن جين",
+              "t_local": 0.05,
+              "dur": 5.35,
+              "en": "but also the remaining 25 Slave Crystals from the surface.",
+              "ar": "بل إلى البلورات الـ25 التابعة\nالمتبقية على سطح الأرض أيضا."
+            },
+            {
+              "id": "Sub_C2_Intro_07",
+              "speaker": "د. إن جين",
+              "t_local": 5.69,
+              "dur": 3.7,
+              "en": "How do you expect to retrieve them",
+              "ar": "كيف تتوقع منا استعادتها"
+            },
+            {
+              "id": "Sub_C2_Intro_08",
+              "speaker": "د. إن جين",
+              "t_local": 9.5,
+              "dur": 3.15,
+              "en": "when we don't have any Earth-bound operatives left?",
+              "ar": "ولم يتبق لنا أي عملاء على الأرض؟!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash2/Crash2_Intro_Cinematic/Crash2_Intro_Cinematic_Shot05_ui.igz",
+          "shot_tag": "C2IntroS05",
+          "shot_start_global": 53.6,
+          "shot_dur": 8.3667,
+          "cues": [
+            {
+              "id": "Sub_C2_Intro_09",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 1.51,
+              "dur": 2.6,
+              "en": "You fool! Do you think I'm unaware of the situation?",
+              "ar": "أيها الأحمق! أتظنني غافلا عن الموقف؟"
+            },
+            {
+              "id": "Sub_C2_Intro_10",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 4.96,
+              "dur": 3.35,
+              "en": "If we don't have any friends left on the surface,",
+              "ar": "إن لم يتبق لنا أي أصدقاء على السطح،"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash2/Crash2_Intro_Cinematic/Crash2_Intro_Cinematic_Shot06_ui.igz",
+          "shot_tag": "C2IntroS06",
+          "shot_start_global": 61.9667,
+          "shot_dur": 5.8667,
+          "cues": [
+            {
+              "id": "Sub_C2_Intro_11",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 0.76,
+              "dur": 3.95,
+              "en": "then we'll need to find... an enemy!",
+              "ar": "فسنضطر حينها للعثور على... عدو!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash2/Crash2_Intro_Cinematic/Crash2_Intro_Cinematic_Shot07_ui.igz",
+          "shot_tag": "C2IntroS07",
+          "shot_start_global": 67.8333,
+          "shot_dur": 7.0333,
+          "cues": [
+            {
+              "id": "Sub_C2_Intro_12",
+              "speaker": "كوكو بانديكوت",
+              "t_local": 5.61,
+              "dur": 1.4,
+              "en": "Crash! Crash!",
+              "ar": "كراش! كراش!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash2/Crash2_Intro_Cinematic/Crash2_Intro_Cinematic_Shot08_ui.igz",
+          "shot_tag": "C2IntroS08",
+          "shot_start_global": 74.8667,
+          "shot_dur": 6.8,
+          "cues": [
+            {
+              "id": "Sub_C2_Intro_13",
+              "speaker": "كوكو بانديكوت",
+              "t_local": 0.05,
+              "dur": 1.45,
+              "en": "CRASH!",
+              "ar": "كرااااش!"
+            },
+            {
+              "id": "Sub_C2_Intro_14",
+              "speaker": "كوكو بانديكوت",
+              "t_local": 1.81,
+              "dur": 3.55,
+              "en": "My battery is fried! Make yourself useful, big brother, and bring an extra battery for me!",
+              "ar": "بطاريتي احترقت! أرني فائدتك يا أخي الأكبر\nوأحضر لي بطارية إضافية!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crash2_Outro_Cinematic",
+      "archive": "Crash2_Outro_Cinematic.pak",
+      "game": "Crash 2",
+      "title_ar": "مشهد النهاية العادية - كراش بانديكوت 2",
+      "specs": [
+        {
+          "shot_ui_logical": "cutscene/2017/Crash2/Crash2_Outro_Cinematic/Crash2_Outro_Cinematic_Shot01_ui.igz",
+          "shot_tag": "C2OutroS01",
+          "shot_start_global": 0.0,
+          "shot_dur": 14.0333,
+          "cues": [
+            {
+              "id": "Sub_C2_Outro_01",
+              "speaker": "كوكو بانديكوت",
+              "t_local": 2.49,
+              "dur": 5.3,
+              "en": "Crash, what do you think happened to Cortex? And the Cortex Vortex?",
+              "ar": "كراش، ما الذي تظنه حدث لكورتكس؟\nوماذا عن دوامة كورتكس؟"
+            },
+            {
+              "id": "Sub_C2_Outro_02",
+              "speaker": "كوكو بانديكوت",
+              "t_local": 8.16,
+              "dur": 1.5,
+              "en": "It's still up there.",
+              "ar": "لا تزال هناك في الأعلى."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crash2_Outro100_Cinematic",
+      "archive": "Crash2_Outro100_Cinematic.pak",
+      "game": "Crash 2",
+      "title_ar": "مشهد نهاية 100% (تدمير الدوامة) - كراش 2",
+      "specs": [
+        {
+          "shot_ui_logical": "cutscene/2017/Crash2/Crash2_Outro100_Cinematic/Crash2_Outro100_Cinematic_Shot01_ui.igz",
+          "shot_tag": "C2Out100S01",
+          "shot_start_global": 0.0,
+          "shot_dur": 13.3667,
+          "cues": [
+            {
+              "id": "Sub_C2_Out100_01",
+              "speaker": "د. نيتروس بريو",
+              "t_local": 4.02,
+              "dur": 2.75,
+              "en": "We're ready, Crash.",
+              "ar": "نحن مستعدون يا كراش."
+            },
+            {
+              "id": "Sub_C2_Out100_02",
+              "speaker": "د. نيتروس بريو",
+              "t_local": 7.17,
+              "dur": 4.8,
+              "en": "Would you like to do the... honors?",
+              "ar": "أتود أن تتولى أنت... شرف التنفيذ؟"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crash3_Intro_Cinematic",
+      "archive": "Crash3_Intro_Cinematic.pak",
+      "game": "Crash 3",
+      "title_ar": "المشهد الافتتاحي - كراش بانديكوت 3",
+      "specs": [
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Intro_Cinematic/Crash3_Intro_Cinematic_Shot04_ui.igz",
+          "shot_tag": "C3IntroS04",
+          "shot_start_global": 12.1,
+          "shot_dur": 7.7,
+          "cues": [
+            {
+              "id": "Sub_C3_Intro_01",
+              "speaker": "أوكا أوكا",
+              "t_local": 4.58,
+              "dur": 2.75,
+              "en": "Free at last!",
+              "ar": "حر طليق أخيرا!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Intro_Cinematic/Crash3_Intro_Cinematic_Shot07_ui.igz",
+          "shot_tag": "C3IntroS07",
+          "shot_start_global": 30.8667,
+          "shot_dur": 10.7,
+          "cues": [
+            {
+              "id": "Sub_C3_Intro_02",
+              "speaker": "أكو أكو",
+              "t_local": 0.99,
+              "dur": 5.35,
+              "en": "Uka Uka is free? No, it cannot be!",
+              "ar": "أوكا أوكا طليق؟ لا، لا يعقل هذا!"
+            },
+            {
+              "id": "Sub_C3_Intro_03",
+              "speaker": "أكو أكو",
+              "t_local": 7.09,
+              "dur": 3.45,
+              "en": "Evil... great evil has come!",
+              "ar": "الشر... شر عظيم قد حل!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Intro_Cinematic/Crash3_Intro_Cinematic_Shot10_ui.igz",
+          "shot_tag": "C3IntroS10",
+          "shot_start_global": 48.2333,
+          "shot_dur": 11.0333,
+          "cues": [
+            {
+              "id": "Sub_C3_Intro_04",
+              "speaker": "أوكا أوكا",
+              "t_local": 0.37,
+              "dur": 5.35,
+              "en": "Nobody dares fail the great Uka Uka, not even once!",
+              "ar": "لم يجرؤ أحد قط على خذلان\nأوكا أوكا العظيم ولو مرة!"
+            },
+            {
+              "id": "Sub_C3_Intro_05",
+              "speaker": "أوكا أوكا",
+              "t_local": 5.86,
+              "dur": 5.1,
+              "en": "Yet you, Cortex... you have failed me twice!",
+              "ar": "ولكنك يا كورتكس...\nلقد خذلتني مرتين!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Intro_Cinematic/Crash3_Intro_Cinematic_Shot11_ui.igz",
+          "shot_tag": "C3IntroS11",
+          "shot_start_global": 59.2667,
+          "shot_dur": 6.0333,
+          "cues": [
+            {
+              "id": "Sub_C3_Intro_06",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 2.02,
+              "dur": 2.85,
+              "en": "Oh, Great Uka Uka, it was that wretched bandicoot!",
+              "ar": "يا أوكا أوكا العظيم،\nكان ذلك البانديكوت اللعين!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Intro_Cinematic/Crash3_Intro_Cinematic_Shot12_ui.igz",
+          "shot_tag": "C3IntroS12",
+          "shot_start_global": 65.3,
+          "shot_dur": 25.0333,
+          "cues": [
+            {
+              "id": "Sub_C3_Intro_07",
+              "speaker": "أوكا أوكا",
+              "t_local": 0.05,
+              "dur": 6.5,
+              "en": "From deep inside my temple prison, I sent you the simplest of instructions to follow.",
+              "ar": "من أعماق سجني في المعبد،\nأرسلت إليك أبسط التعليمات لتنفيذها."
+            },
+            {
+              "id": "Sub_C3_Intro_08",
+              "speaker": "أوكا أوكا",
+              "t_local": 7.0,
+              "dur": 4.4,
+              "en": "Yet you lost the gems! You lost the crystals!",
+              "ar": "لكنك خسرت الجواهر! وخسرت البلورات!"
+            },
+            {
+              "id": "Sub_C3_Intro_09",
+              "speaker": "أوكا أوكا",
+              "t_local": 11.53,
+              "dur": 3.05,
+              "en": "And I have lost my patience!",
+              "ar": "وأنا فقدت صبري!"
+            },
+            {
+              "id": "Sub_C3_Intro_10",
+              "speaker": "أوكا أوكا",
+              "t_local": 15.1,
+              "dur": 6.2,
+              "en": "Now there is no other source of energy left on this planet!",
+              "ar": "لم يعد هناك الآن أي مصدر طاقة آخر\nمتبق على هذا الكوكب!"
+            },
+            {
+              "id": "Sub_C3_Intro_11",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 21.55,
+              "dur": 3.3,
+              "en": "I know we've had some... unfortunate setbacks...",
+              "ar": "أعلم أننا مررنا ببعض... الانتكاسات المؤسفة..."
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Intro_Cinematic/Crash3_Intro_Cinematic_Shot13_ui.igz",
+          "shot_tag": "C3IntroS13",
+          "shot_start_global": 90.3333,
+          "shot_dur": 1.7,
+          "cues": [
+            {
+              "id": "Sub_C3_Intro_12",
+              "speaker": "أوكا أوكا",
+              "t_local": 0.05,
+              "dur": 1.6,
+              "en": "You failed!",
+              "ar": "وفشلت!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Intro_Cinematic/Crash3_Intro_Cinematic_Shot14_ui.igz",
+          "shot_tag": "C3IntroS14",
+          "shot_start_global": 92.0333,
+          "shot_dur": 4.3667,
+          "cues": [
+            {
+              "id": "Sub_C3_Intro_13",
+              "speaker": "أوكا أوكا",
+              "t_local": 0.28,
+              "dur": 4.0,
+              "en": "However, because your bumbling managed to set me free,",
+              "ar": "ولكن بما أن تخبطك الأخرق\nقد نجح في تحريري،"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Intro_Cinematic/Crash3_Intro_Cinematic_Shot15_ui.igz",
+          "shot_tag": "C3IntroS15",
+          "shot_start_global": 96.4,
+          "shot_dur": 3.5333,
+          "cues": [
+            {
+              "id": "Sub_C3_Intro_14",
+              "speaker": "أوكا أوكا",
+              "t_local": 0.1,
+              "dur": 3.35,
+              "en": "I am feeling generous today.",
+              "ar": "فإنني أشعر بالكرم اليوم."
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Intro_Cinematic/Crash3_Intro_Cinematic_Shot16_ui.igz",
+          "shot_tag": "C3IntroS16",
+          "shot_start_global": 99.9333,
+          "shot_dur": 4.2,
+          "cues": [
+            {
+              "id": "Sub_C3_Intro_15",
+              "speaker": "أوكا أوكا",
+              "t_local": 0.57,
+              "dur": 3.55,
+              "en": "There is still a way to gather the energy needed",
+              "ar": "لا تزال هناك وسيلة لحشد القوة اللازمة"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Intro_Cinematic/Crash3_Intro_Cinematic_Shot17_ui.igz",
+          "shot_tag": "C3IntroS17",
+          "shot_start_global": 104.1333,
+          "shot_dur": 15.7,
+          "cues": [
+            {
+              "id": "Sub_C3_Intro_16",
+              "speaker": "أوكا أوكا",
+              "t_local": 0.15,
+              "dur": 3.0,
+              "en": "to enslave this pitiful planet!",
+              "ar": "لاستعباد هذا الكوكب البائس!"
+            },
+            {
+              "id": "Sub_C3_Intro_17",
+              "speaker": "أوكا أوكا",
+              "t_local": 3.48,
+              "dur": 8.35,
+              "en": "And this time, this time, the great Uka Uka will make sure you do it right!",
+              "ar": "وهذه المرة، هذه المرة بالذات،\nسيضمن أوكا أوكا العظيم أن تنجز الأمر بإتقان!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Intro_Cinematic/Crash3_Intro_Cinematic_Shot18_ui.igz",
+          "shot_tag": "C3IntroS18",
+          "shot_start_global": 119.8333,
+          "shot_dur": 21.7,
+          "cues": [
+            {
+              "id": "Sub_C3_Intro_18",
+              "speaker": "أكو أكو",
+              "t_local": 0.35,
+              "dur": 4.45,
+              "en": "After many eons, my evil twin brother,",
+              "ar": "بعد دهور طويلة، تحرر أخي التوأم الشرير،"
+            },
+            {
+              "id": "Sub_C3_Intro_19",
+              "speaker": "أكو أكو",
+              "t_local": 4.91,
+              "dur": 4.2,
+              "en": "Uka Uka, has been freed from his underground prison.",
+              "ar": "أوكا أوكا، من سجنه تحت الأرض."
+            },
+            {
+              "id": "Sub_C3_Intro_20",
+              "speaker": "أكو أكو",
+              "t_local": 9.8,
+              "dur": 5.45,
+              "en": "I locked him there long ago to protect the world from his malice.",
+              "ar": "لقد حبسته هناك منذ زمن بعيد\nلحماية العالم من شره وحقده."
+            },
+            {
+              "id": "Sub_C3_Intro_21",
+              "speaker": "أكو أكو",
+              "t_local": 15.98,
+              "dur": 5.65,
+              "en": "Now that he is free again, he must be stopped!",
+              "ar": "والآن، وقد أصبح حرا مجددا،\nلا بد من إيقافه!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Intro_Cinematic/Crash3_Intro_Cinematic_Shot20_ui.igz",
+          "shot_tag": "C3IntroS20",
+          "shot_start_global": 147.5667,
+          "shot_dur": 6.7,
+          "cues": [
+            {
+              "id": "Sub_C3_Intro_22",
+              "speaker": "أكو أكو",
+              "t_local": 1.02,
+              "dur": 1.25,
+              "en": "Children!",
+              "ar": "يا أبنائي!"
+            },
+            {
+              "id": "Sub_C3_Intro_23",
+              "speaker": "أكو أكو",
+              "t_local": 2.46,
+              "dur": 4.15,
+              "en": "Uka Uka and Cortex plan on using this Time-Twister machine",
+              "ar": "يخطط أوكا أوكا وكورتكس لاستخدام آلة ثني الزمن هذه"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Intro_Cinematic/Crash3_Intro_Cinematic_Shot21_ui.igz",
+          "shot_tag": "C3IntroS21",
+          "shot_start_global": 154.2667,
+          "shot_dur": 7.7,
+          "cues": [
+            {
+              "id": "Sub_C3_Intro_24",
+              "speaker": "أكو أكو",
+              "t_local": 0.05,
+              "dur": 3.8,
+              "en": "to gather the crystals that lay scattered across time!",
+              "ar": "لجمع البلورات المتناثرة عبر العصور!"
+            },
+            {
+              "id": "Sub_C3_Intro_25",
+              "speaker": "أكو أكو",
+              "t_local": 4.28,
+              "dur": 3.35,
+              "en": "I have brought you here to recover the crystals before them.",
+              "ar": "لقد أحضرتكما إلى هنا\nلاستعادة البلورات قبلهما."
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Intro_Cinematic/Crash3_Intro_Cinematic_Shot22_ui.igz",
+          "shot_tag": "C3IntroS22",
+          "shot_start_global": 161.9667,
+          "shot_dur": 6.3667,
+          "cues": [
+            {
+              "id": "Sub_C3_Intro_26",
+              "speaker": "أكو أكو",
+              "t_local": 0.51,
+              "dur": 5.45,
+              "en": "To open a time portal, simply stand upon a button, and then jump into the portal.",
+              "ar": "لفتح بوابة الزمن، قفا فوق الزر ببساطة\nثم اقفزا داخل البوابة."
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Intro_Cinematic/Crash3_Intro_Cinematic_Shot23_ui.igz",
+          "shot_tag": "C3IntroS23",
+          "shot_start_global": 168.3333,
+          "shot_dur": 3.3667,
+          "cues": [
+            {
+              "id": "Sub_C3_Intro_27",
+              "speaker": "أكو أكو",
+              "t_local": 0.33,
+              "dur": 1.5,
+              "en": "Good luck!",
+              "ar": "حظا موفقا!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C3_Hub_02_Intro",
+      "archive": "C3_Hub_02_Intro.pak",
+      "game": "Crash 3 Hub",
+      "title_ar": "حوار كورتكس في الغرفة الثانية (بعد تايني) - كراش 3",
+      "specs": [
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/C3_Hub_02_Intro/C3_Hub_02_Intro_ui.igz",
+          "shot_tag": "C3Hub02",
+          "shot_start_global": 0.0,
+          "shot_dur": 22.7,
+          "cues": [
+            {
+              "id": "Sub_C3_Hub02_01",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 1.35,
+              "dur": 6.25,
+              "en": "Why? Why do you insist on being such a thorn in our sides?!",
+              "ar": "لماذا؟ لماذا تصرون على البقاء\nشوكة في خاصرتنا؟!"
+            },
+            {
+              "id": "Sub_C3_Hub02_02",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 8.24,
+              "dur": 2.0,
+              "en": "Who? What? Where was I?",
+              "ar": "من؟ ماذا؟ أين كنت؟"
+            },
+            {
+              "id": "Sub_C3_Hub02_03",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 10.92,
+              "dur": 5.0,
+              "en": "Oh... Tiny was a good fellow. He hated everyone and everything, but he had a good heart nonetheless.",
+              "ar": "آه... كان تايني رفيقا طيبا،\nكره الجميع وكل شيء، لكن قلبه كان طيبا."
+            },
+            {
+              "id": "Sub_C3_Hub02_04",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 16.68,
+              "dur": 5.88,
+              "en": "Please try to be a little more considerate of my minions next time.",
+              "ar": "أرجو أن تكونوا أكثر تعقلا\nمع أتباعي في المرة القادمة."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C3_Cortex_Taunt_2",
+      "archive": "C3_Cortex_Taunt_2.pak",
+      "game": "Crash 3 Hub",
+      "title_ar": "تهكم كورتكس الثاني في غرفة الزمن - كراش 3",
+      "specs": [
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/C3_Cortex_Taunt_2/C3_Cortex_Taunt_2_ui.igz",
+          "shot_tag": "C3Taunt2",
+          "shot_start_global": 0.0,
+          "shot_dur": 18.5333,
+          "cues": [
+            {
+              "id": "Sub_C3_Taunt2_01",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 1.35,
+              "dur": 3.6,
+              "en": "Alright, you've foiled a few plans before,",
+              "ar": "حسنا، لقد أفسدت بضع خطط لنا من قبل،"
+            },
+            {
+              "id": "Sub_C3_Taunt2_02",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 5.2,
+              "dur": 3.0,
+              "en": "but I never expected you to make it this far.",
+              "ar": "لكنني لم أتوقع أبدا أن تصلوا إلى هذا الحد."
+            },
+            {
+              "id": "Sub_C3_Taunt2_03",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 8.64,
+              "dur": 9.0,
+              "en": "If you don't turn back now, I'll make sure you and the rest of the universe suffer for a thousand years!",
+              "ar": "إن لم تعودوا أدراجكم، فسأذيقكم\nوالكون بأسره ألف عام من العذاب!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C3_Cortex_Post_N_Tropy_Fight",
+      "archive": "C3_Cortex_Post_N_Tropy_Fight.pak",
+      "game": "Crash 3 Hub",
+      "title_ar": "حوار كورتكس بعد هزيمة د. إن تروبي - كراش 3",
+      "specs": [
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/C3_Cortex_Post_N_Tropy_Fight/C3_Cortex_Post_N_Tropy_Fight_ui.igz",
+          "shot_tag": "C3PostNT",
+          "shot_start_global": 0.0,
+          "shot_dur": 24.3667,
+          "cues": [
+            {
+              "id": "Sub_C3_PostNT_01",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 1.38,
+              "dur": 3.55,
+              "en": "You insolent, worthless fools!",
+              "ar": "أيها الحمقى الوقحون التافهون!"
+            },
+            {
+              "id": "Sub_C3_PostNT_02",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 5.1,
+              "dur": 5.5,
+              "en": "By defeating Dr. N. Tropy, you have placed us all in grave danger!",
+              "ar": "بهزيمتكم للدكتور إن تروبي،\nوضعتمونا جميعا في خطر جسيم!"
+            },
+            {
+              "id": "Sub_C3_PostNT_03",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 13.56,
+              "dur": 4.15,
+              "en": "Crash, Coco, you must understand this Time-Twister is very delicate.",
+              "ar": "كراش، كوكو، عليكما إدراك أن\nآلة ثني الزمن هذه شديدة الحساسية."
+            },
+            {
+              "id": "Sub_C3_PostNT_04",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 18.42,
+              "dur": 5.05,
+              "en": "Without Dr. N. Tropy's constant care and control, who knows what it might do?",
+              "ar": "فمن دون رعاية الدكتور إن تروبي\nوتحكمه المستمر، من يدري ما قد تفعله؟"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C3_Post_NGin_Fight",
+      "archive": "C3_Post_NGin_Fight.pak",
+      "game": "Crash 3 Hub",
+      "title_ar": "حوار كورتكس بعد هزيمة إن جين - كراش 3",
+      "specs": [
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/C3_Post_NGin_Fight/C3_Post_Ngin_Fight_ui.igz",
+          "shot_tag": "C3PostNG",
+          "shot_start_global": 0.0,
+          "shot_dur": 31.3667,
+          "cues": [
+            {
+              "id": "Sub_C3_PostNG_01",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 1.35,
+              "dur": 2.55,
+              "en": "Funny how history repeats itself!",
+              "ar": "مضحك كيف يعيد التاريخ نفسه!"
+            },
+            {
+              "id": "Sub_C3_PostNG_02",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 4.5,
+              "dur": 3.55,
+              "en": "Once again, N. Gin has failed to defeat you.",
+              "ar": "وها قد فشل إن جين مجددا في هزيمتكما."
+            },
+            {
+              "id": "Sub_C3_PostNG_03",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 8.7,
+              "dur": 5.3,
+              "en": "What?! For this we must crush you!",
+              "ar": "ماذا؟! لأجل هذا لا بد أن نسحقكم!"
+            },
+            {
+              "id": "Sub_C3_PostNG_04",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 17.64,
+              "dur": 6.0,
+              "en": "Oh, my head hurts... I haven't felt myself lately.",
+              "ar": "آه، رأسي يؤلمني...\nلست على ما يرام هذه الأيام."
+            },
+            {
+              "id": "Sub_C3_PostNG_05",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 24.09,
+              "dur": 4.3,
+              "en": "So the end is near; five more crystals to collect, and once again you thwart my plan.",
+              "ar": "إذن باتت النهاية وشيكة؛ اجمعا 5 بلورات\nأخرى وستحبطان خطتي مجددا."
+            },
+            {
+              "id": "Sub_C3_PostNG_06",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 29.13,
+              "dur": 1.0,
+              "en": "Or will you?",
+              "ar": "أم يا ترى لن تفعلا؟"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C3_Pre_Final_Battle",
+      "archive": "C3_Pre_Final_Battle.pak",
+      "game": "Crash 3 Hub",
+      "title_ar": "حوار ما قبل المعركة الأخيرة - كراش 3",
+      "specs": [
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/C3_Pre_Final_Battle/C3_Pre_Final_Battle_ui.igz",
+          "shot_tag": "C3PreFin",
+          "shot_start_global": 0.0,
+          "shot_dur": 41.0333,
+          "cues": [
+            {
+              "id": "Sub_C3_PreFin_01",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 8.22,
+              "dur": 4.63,
+              "en": "Excuse me, this is the part where I'm supposed to be angry,",
+              "ar": "معذرة، هذا هو الجزء الذي يفترض بي\nأن أغضب فيه،"
+            },
+            {
+              "id": "Sub_C3_PreFin_02",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 13.41,
+              "dur": 3.19,
+              "en": "in a rage, furious beyond belief.",
+              "ar": "وأن أستشيط غيظا وثورة تفوق الخيال."
+            },
+            {
+              "id": "Sub_C3_PreFin_03",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 17.55,
+              "dur": 4.45,
+              "en": "You have outwitted and out-spun my best minions yet again.",
+              "ar": "لقد تفوقتما ذكاء وسرعة دوران\nعلى خيرة أتباعي مرة أخرى."
+            },
+            {
+              "id": "Sub_C3_PreFin_04",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 22.95,
+              "dur": 2.6,
+              "en": "I should be very upset, shouldn't I?",
+              "ar": "ينبغي لي أن أكون مستاء جدا، أليس كذلك؟"
+            },
+            {
+              "id": "Sub_C3_PreFin_05",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 25.71,
+              "dur": 3.79,
+              "en": "Why, in fact, we are furious!",
+              "ar": "وفي الواقع، نحن نستشيط غضبا!"
+            },
+            {
+              "id": "Sub_C3_PreFin_06",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 29.55,
+              "dur": 4.05,
+              "en": "But it seems you've overlooked one tiny detail, my little orange delivery boy!",
+              "ar": "لكن يبدو أنك أغفلت تفصيلا صغيرا\nيا ساعي التوصيل البرتقالي الصغير!"
+            },
+            {
+              "id": "Sub_C3_PreFin_07",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 33.75,
+              "dur": 6.75,
+              "en": "Now that you have gathered all of the crystals, all we have to do is take them from you!",
+              "ar": "والآن وقد جمعت كافة البلورات،\nفكل ما علينا فعله هو أن ننتزعها منك!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crash3_BossOutro_Cinematic",
+      "archive": "Crash3_BossOutro_Cinematic.pak",
+      "game": "Crash 3",
+      "title_ar": "مشهد هزيمة كورتكس وأوكا أوكا (النهاية العادية) - كراش 3",
+      "specs": [
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_BossOutro_Cinematic/Crash3_BossOutro_Cinematic_Shot01_ui.igz",
+          "shot_tag": "C3BossOut",
+          "shot_start_global": 0.0,
+          "shot_dur": 30.3667,
+          "cues": [
+            {
+              "id": "Sub_C3_BossOut_01",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 2.52,
+              "dur": 3.33,
+              "en": "Defeated again... it's not fair!",
+              "ar": "هزمنا مجددا... هذا ليس عدلا!"
+            },
+            {
+              "id": "Sub_C3_BossOut_02",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 6.57,
+              "dur": 5.73,
+              "en": "Maybe I should retire to a nice big beach, with a nice big drink,",
+              "ar": "ربما يجدر بي التقاعد على شاطئ كبير جميل،\nمع شراب منعش كبير،"
+            },
+            {
+              "id": "Sub_C3_BossOut_03",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 12.8,
+              "dur": 5.1,
+              "en": "and a woman with nice big bags of ice for my head!",
+              "ar": "وامرأة تحمل أكياسا كبيرة لطيفة\nمن الثلج لرأسي!"
+            },
+            {
+              "id": "Sub_C3_BossOut_04",
+              "speaker": "أوكا أوكا",
+              "t_local": 18.27,
+              "dur": 4.73,
+              "en": "It's not over yet, Bandicoot! There are still the gems!",
+              "ar": "لم ينته الأمر بعد يا بانديكوت!\nلا تزال هناك الجواهر!"
+            },
+            {
+              "id": "Sub_C3_BossOut_05",
+              "speaker": "أوكا أوكا",
+              "t_local": 23.05,
+              "dur": 4.15,
+              "en": "We still have a chance to triumph!",
+              "ar": "لا تزال لدينا فرصة للانتصار!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Crash3_Outro100_Cinematic",
+      "archive": "Crash3_Outro100_Cinematic.pak",
+      "game": "Crash 3",
+      "title_ar": "مشهد نهاية 100% الحقيقية - كراش 3",
+      "specs": [
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Outro100_Cinematic/Crash3_Outro100_Cinematic_Shot01_ui.igz",
+          "shot_tag": "C3Out100S01",
+          "shot_start_global": 0.0,
+          "shot_dur": 14.5333,
+          "cues": [
+            {
+              "id": "Sub_C3_Out100_01",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 2.01,
+              "dur": 5.15,
+              "en": "No! It cannot be! Not the time prisoner again!",
+              "ar": "لا! لا يعقل هذا!\nليس سجين الزمن من جديد!"
+            },
+            {
+              "id": "Sub_C3_Out100_02",
+              "speaker": "د. نيو كورتكس",
+              "t_local": 7.32,
+              "dur": 5.75,
+              "en": "Nooooo!",
+              "ar": "لااااااااا!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Outro100_Cinematic/Crash3_Outro100_Cinematic_Shot02_ui.igz",
+          "shot_tag": "C3Out100S02",
+          "shot_start_global": 14.5333,
+          "shot_dur": 12.0333,
+          "cues": [
+            {
+              "id": "Sub_C3_Out100_03",
+              "speaker": "أكو أكو",
+              "t_local": 4.04,
+              "dur": 3.53,
+              "en": "The Time-Twister could hold no longer.",
+              "ar": "لم تستطع آلة ثني الزمن الصمود أكثر."
+            },
+            {
+              "id": "Sub_C3_Out100_04",
+              "speaker": "أكو أكو",
+              "t_local": 8.3,
+              "dur": 1.8,
+              "en": "We were lucky to escape.",
+              "ar": "لقد كنا محظوظين بنجاتنا."
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Outro100_Cinematic/Crash3_Outro100_Cinematic_Shot03_ui.igz",
+          "shot_tag": "C3Out100S03",
+          "shot_start_global": 26.5667,
+          "shot_dur": 9.8667,
+          "cues": [
+            {
+              "id": "Sub_C3_Out100_05",
+              "speaker": "د. نيو كورتكس / أوكا أوكا",
+              "t_local": 3.85,
+              "dur": 5.1,
+              "en": "Give me the mask! With it I shall rule the world! Give it to me!",
+              "ar": "أعطني القناع! به سأسيطر على العالم!\nهيا أعطني إياه!"
+            }
+          ]
+        },
+        {
+          "shot_ui_logical": "cutscene/2017/Crash3/Crash3_Outro100_Cinematic/Crash3_Outro100_Cinematic_Shot04_ui.igz",
+          "shot_tag": "C3Out100S04",
+          "shot_start_global": 36.4333,
+          "shot_dur": 14.5333,
+          "cues": [
+            {
+              "id": "Sub_C3_Out100_06",
+              "speaker": "أكو أكو",
+              "t_local": 1.04,
+              "dur": 3.65,
+              "en": "It is hard to predict what happened to our enemies,",
+              "ar": "يصعب الجزم بما حل بأعدائنا،"
+            },
+            {
+              "id": "Sub_C3_Out100_07",
+              "speaker": "أكو أكو",
+              "t_local": 5.21,
+              "dur": 3.8,
+              "en": "but I doubt we will see them for a very long time.",
+              "ar": "لكنني أشك في أننا سنراهم لوقت طويل جدا."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dialogues_loc": [
+    {
+      "id": "VO_Boss_DrCortex_LOC_77",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "بداية غرفة الانتقال 1 (المهمة الأولى)",
+      "en": "Well, well, well, if it isn't Crash Bandicoot. Welcome. I apologize for the crude means used to bring you here, but I'd rather expect a written invitation would have been turned down. I need your help. Surrounding you are a series of five doors; through each door lies a well hidden crystal. The crystals look like this. Bring me the crystals, Crash. That is all I will say for now. We will speak again.",
+      "ar": "حسنا، حسنا، حسنا، من غيره هنا سوى كراش بانديكوت! أهلا بك. أعتذر عن الوسيلة القاسية التي جلبتك بها إلى هنا، لكنني توقعت أن دعوة مكتوبة كانت لتقابل بالرفض. أنا بحاجة إلى مساعدتك. تحيط بك خمسة أبواب؛ وخلف كل باب تقبع بلورة مخفية بإحكام. هكذا تبدو البلورات. أحضر لي البلورات يا كراش. هذا كل ما سأقوله الآن، وسنتحدث مجددا."
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_78",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "العودة من مرحلة دون بلورة (تذكير 1)",
+      "en": "No, no, no, Crash. I said bring me the crystals. Now, get back in there.",
+      "ar": "لا، لا، لا يا كراش. قلت أحضر لي البلورات. والآن، عد إلى هناك!"
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_79",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "العودة من مرحلة دون بلورة (تذكير 2)",
+      "en": "No, no, no, Crash! To save the world I need crystals! CRYSTALS! One more time: they look like this. Crystals, Crash! Go back through one of those doors and bring me crystals!",
+      "ar": "لا، لا، لا يا كراش! لإنقاذ العالم أحتاج إلى البلورات! البلورات! مرة أخرى: هكذا تبدو البلورات يا كراش! ادخل عبر أحد هذه الأبواب وأحضر لي البلورات!"
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_80",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "تحذير البلورات الأخير في غرفة الانتقال",
+      "en": "Look up at the doorways. There is a big crystal-shaped slot. Fill all five crystal slots in this warp room by retrieving one crystal from each of the five areas. Only after we have filled all of the slots in this room can we continue on our quest. This is the last time I remind you.",
+      "ar": "انظر أعلى المداخل؛ ستجد تجويفا كبيرا على شكل بلورة. املأ الخانات الخمس جميعها في غرفة الانتقال هذه باستعادة بلورة واحدة من كل منطقة من المناطق الخمس. وبعد أن نملأ جميع الخانات هنا فقط يمكننا مواصلة مهمتنا. وهذه هي المرة الأخيرة التي أذكرك فيها."
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_81",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "جمع البلورة الأولى",
+      "en": "Well done, Crash. I knew I could rely on you. Now listen carefully, these holograms are hard to maintain. During the course of my intellectual pursuits, I have stumbled across a force that threatens to destroy the world. The crystals are the only means of containing it. The fate of the world is at stake. It is imperative, therefore, that you bring them to me.",
+      "ar": "أحسنت يا كراش، علمت أنني أستطيع الاعتماد عليك. والآن أنصت جيدا، فمن الصعب الحفاظ على استقرار هذه الصور المجسمة. أثناء أبحاثي العلمية، عثرت على قوة تهدد بتدمير العالم، والبلورات هي الوسيلة الوحيدة لاحتوائها. مصير العالم على المحك؛ لذا من الضروري للغاية أن تحضرها إلي."
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_82",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "جمع البلورة الثالثة",
+      "en": "Three crystals. Not bad. I see you are getting the hang of it. I need to conserve power; I will communicate with you again after you retrieve the fifth crystal.",
+      "ar": "ثلاث بلورات... ليس سيئا. أرى أنك بدأت تتقن الأمر. علي توفير الطاقة؛ سأتواصل معك مجددا بعد أن تستعيد البلورة الخامسة."
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_83",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "جمع 5 بلورات (الانتقال للغرفة التالية التحذير من الزعماء)",
+      "en": "Listen up! We are not without enemies; some of them you may even recognize. Although they cannot harm you inside this warp room, they can attack you on the way to the next one. To get to the next warp room, use the platform that appears in the center of the room. Good luck.",
+      "ar": "انتبه! لدينا أعداء أيضا، وربما تعرف بعضهم شخصيا. ورغم أنهم لا يستطيعون إيذاءك داخل غرفة الانتقال هذه، إلا أنهم قد يهاجمونك في الطريق إلى الغرفة التالية. للانتقال إليها، استخدم المنصة التي تظهر في وسط الغرفة. حظا موفقا."
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_84",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "بعد هزيمة ريبر رو (الغرفة 2)",
+      "en": "I see that Ripper Roo failed to prove much of a challenge yet again. But back to business! There are crystals to be gathered — 20 to be exact. The planets will align shortly, all 13 of them, and this will create a power great enough to rip the Earth apart. Properly utilized, however, the crystals can absorb and contain the energy.",
+      "ar": "أرى أن ريبر رو فشل مجددا في أن يشكّل لك تحديا يذكر. لنعد إلى عملنا! هناك بلورات يجب جمعها — 20 بلورة بالتحديد. ستصطف الكواكب قريبا، جميعها الـ13، مما سيولّد طاقة هائلة تكفي لتمزيق الأرض إربا. لكن إن استغلت البلورات بالشكل الصحيح، فيمكنها امتصاص هذه الطاقة واحتواؤها."
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_85",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "جمع 10 بلورات",
+      "en": "10 of 25 crystals! You're on your way. I'm running low on power, so communication from this point will be difficult. ... Remember: I'm counting on you.",
+      "ar": "10 من أصل 25 بلورة! أنت على الطريق الصحيح. طاقتي تنفد، لذا سيصبح التواصل منذ الآن صعبا. ... تذكّر: أنا أعتمد عليك."
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_86",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "بعد هزيمة الأخوين كومودو (الغرفة 3)",
+      "en": "Good show, Crash. The Komodo Brothers obviously lacked your mettle. But now's not the time to get cocky. There are still many crystals to obtain. Remember, the world is counting on you.",
+      "ar": "أداء رائع يا كراش. من الواضح أن الأخوين كومودو افتقرا إلى شجاعتك. لكن هذا ليس وقت الغرور، فلا يزال أمامك الكثير من البلورات للحصول عليها. تذكر: العالم بأسره يعوّل عليك."
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_87",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "جمع 15 بلورة (التحذير من د. بريو والطلب من كراش تسليم البلورات إلى إن جين)",
+      "en": "Crash, I have discovered that the opposition is being masterminded by Dr. Nitrus Brio, the inventor of the Evolvo-Ray. Brio was responsible for our... misunderstandings in the past. He forced me to assist him in his plot for world domination, and he is at it again. He will attempt to stand in our way. Be on your guard, Crash! ... Deliver the crystals to N. Gin.",
+      "ar": "كراش، لقد اكتشفت أن من يدبر هذه المعارضة هو الدكتور نيتروس بريو، مخترع شعاع التطور. كان بريو مسؤولا عن... سوء التفاهم بيننا في الماضي؛ فقد أجبرني على مساعدته في مخططه للسيطرة على العالم، وها هو يعيد الكرة من جديد وسيحاول الوقوف في طريقنا. كن حذرا يا كراش! ... سلّم البلورات إلى إن جين."
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_88",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "بعد هزيمة تايني تايغر / الغرفة 4",
+      "en": "What is your problem, Bandicoot?! I will not ask you again to bring me the crystals! Obtain the remaining 5 crystals, Crash, and bring them to ME!",
+      "ar": "ما خطبك أيها البانديكوت؟! لن أطلب منك مجددا أن تحضر لي البلورات! اجمع البلورات الـ5 المتبقية يا كراش وأحضرها إلي أنا!"
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_89",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "الغرفة 5 (تسلل كوكو لاختراق البث - الجزء 1)",
+      "en": "Yes! My plan is nearly complete, and I have you, Crash Bandicoot, to thank for it. ... N. Gin, what's happening?! What's that? Is she stealing our signal?!",
+      "ar": "نعم! لقد شارفت خطتي على الاكتمال، والفضل يعود إليك يا كراش بانديكوت! ... إن جين، ماذا يحدث؟! ما هذا؟ هل تسرق إشارتنا؟!"
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_90",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "الغرفة 5 (استعادة كورتكس للإشارة - الجزء 2)",
+      "en": "N. Gin, you fool! She's telling him everything! ... Ah, yes... we're... we're back now. Pardon the interruption. Crash, bring me crystals!",
+      "ar": "يا إن جين يا أحمق! إنها تخبره بكل شيء! ... آه، نعم... لقد عدنا الآن. عفوا على الانقطاع. يا كراش، أحضر لي البلورات!"
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_115",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "الغرفة السرية في كراش 2 (بعد منتصف الطريق)",
+      "en": "Crash, my boy, you are more than halfway there. But I'm sure you've noticed that things are getting harder. The last 10 crystals will be the hardest to gather, and our enemies will be sending their strongest forces to thwart you. I'll contact you again when you have completed the next warp room.",
+      "ar": "كراش يا فتى، لقد تجاوزت منتصف الطريق الآن. ولكنني متأكد أنك لاحظت تزايد الصعوبة. ستكون البلورات الـ10 الأخيرة هي الأصعب جمعا، وسيرسل أعداؤنا أقوى قواتهم لإحباطك. سأتواصل معك مجددا فور إنهائك لغرفة الانتقال التالية."
+    },
+    {
+      "id": "VO_NPC_NitrusBrio_LOC_168",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Nitrus Brio",
+      "speaker_ar": "د. نيتروس بريو",
+      "context": "اتصال بريو الأول بعد الحصول على جوهرة (Gem)",
+      "en": "Sooo... you are helping Cortex gather crystals. Yet, you have acquired a gem! Interesting... Well, Crash, know this: as long as you are allied with Cortex, you are my sworn enemy, and I will do anything in my power to stop you! Hahaha! If the fate of the world is truly your concern, you must gather the GEMS, not the crystals! If you obtain all 42 gems, I can use them to focus a laser! Yes, a laser beam that will destroy Cortex and the space station he has created! Until then, I must use my forces to stop you from gathering crystals!",
+      "ar": "إذن... أنت تساعد كورتكس في جمع البلورات، لكنك مع ذلك حصلت على جوهرة! مثير للاهتمام... حسنا يا كراش، اعلم هذا: طالما كنت حليفا لكورتكس فأنت عدوي اللدود، وسأفعل كل ما بوسعي لإيقافك! هاهاها! إن كان مصير العالم يهمك حقا، فعليك جمع الجواهر لا البلورات! إذا حصلت على الجواهر الـ42 كلها، سأتمكن بواسطتها من تركيز شعاع ليزر! نعم، شعاع ليزر يدمر كورتكس ومحطة الفضاء التي شيدها! وحتى ذلك الحين، لا بد أن أستخدم قواتي لمنعك من جمع البلورات!"
+    },
+    {
+      "id": "VO_NPC_NitrusBrio_LOC_169",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Dr. Nitrus Brio",
+      "speaker_ar": "د. نيتروس بريو",
+      "context": "عند جمع الجواهر الـ42 كلها (تحضير شعاع الليزر)",
+      "en": "You have acquired all of the gems! Incredible! The crystals are not the only means of harnessing planetary energy — the gems have that ability as well! And with them, I can destroy the Cortex Vortex forever! Let me warp you to my completed laser installation...",
+      "ar": "لقد حصلت على جميع الجواهر! مذهل! ليست البلورات هي الوسيلة الوحيدة لتسخير طاقة الكوكب — بل الجواهر تملك تلك القدرة أيضا! وبها أستطيع تدمير دوامة كورتكس إلى الأبد! دعني أنقلك إلى منشأة الليزر المكتملة الخاصة بي..."
+    },
+    {
+      "id": "VO_NPC_Coco_LOC_16",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Coco Bandicoot",
+      "speaker_ar": "كوكو بانديكوت",
+      "context": "محاولة كوكو اختراق البث 1",
+      "en": "Are you there, Crash? Crash! Crash! Are you there, Crash? Are you there, Crash?!",
+      "ar": "هل أنت هنا يا كراش؟ كراش! كراش! هل تسمعني يا كراش؟ هل أنت هنا؟!"
+    },
+    {
+      "id": "VO_NPC_Coco_LOC_17",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Coco Bandicoot",
+      "speaker_ar": "كوكو بانديكوت",
+      "context": "محاولة كوكو اختراق البث 2",
+      "en": "Crash, is that you? I've been looking everywhere! I don't have much time to tell you this — you have to be careful! Trusting Cortex seems a little unwise, Crash. I can't keep the data path open much longer! Crash, you need to fi—",
+      "ar": "كراش، هل هذا أنت؟ كنت أبحث عنك في كل مكان! ليس لدي متسع من الوقت لأخبرك بهذا — عليك أن تحذر! الوثوق بكورتكس يبدو غير حكيم إطلاقا يا كراش. لا أستطيع إبقاء مسار البيانات مفتوحا أكثر! كراش، عليك أن—"
+    },
+    {
+      "id": "VO_NPC_Coco_LOC_18",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Coco Bandicoot",
+      "speaker_ar": "كوكو بانديكوت",
+      "context": "محاولة كوكو اختراق البث 3",
+      "en": "Crash, thank goodness! I hacked into Cortex's computer and found detailed schematics for an improved Cortex Vortex and a suspicious-looking space station. I'm not sure, but Cortex might be trying t—",
+      "ar": "كراش، حمدا لله! لقد اخترقت حاسوب كورتكس وعثرت على مخططات مفصلة لدوامة كورتكس المطورة ومحطة فضاء مريبة. لست متأكدة، لكن كورتكس قد يحاول أن—"
+    },
+    {
+      "id": "VO_NPC_Coco_LOC_19",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Coco Bandicoot",
+      "speaker_ar": "كوكو بانديكوت",
+      "context": "محاولة كوكو اختراق البث 4",
+      "en": "Crash, I haven't got much time! Cortex has almost completed the new space station. Something's not right with his statements — beware of the tricks he's tr—",
+      "ar": "كراش، لم يتبق لدي وقت! كاد كورتكس يتم محطة الفضاء الجديدة. ثمة أمر مريب في كلامه — احذر من الحيل التي يح—"
+    },
+    {
+      "id": "VO_NPC_Coco_LOC_20",
+      "category": "TalkingHead",
+      "game": "Crash 2 Hub",
+      "speaker_en": "Coco Bandicoot",
+      "speaker_ar": "كوكو بانديكوت",
+      "context": "كشف الحقيقة في الغرفة 5 (رسالة كوكو الكاملة)",
+      "en": "Crash! Cortex isn't going to use the crystals to contain the planet's energy! He's going to harness the force and use it to power the super Cortex Vortex he's built on his space station! One blast and the ray will cover the entire world, turning everyone into Cortex's mindless slaves! Crash, don't let him have those crystals!",
+      "ar": "كراش! لن يستخدم كورتكس البلورات لاحتواء طاقة الكوكب! بل سيسخّر تلك القوة لتشغيل دوامة كورتكس الخارقة التي بناها على محطته الفضائية! ضربة واحدة وسيغطي الشعاع العالم بأسره، ليحول الجميع إلى عبيد فاقدي الإرادة لكورتكس! كراش، لا تدعه يحصل على تلك البلورات!"
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_106",
+      "category": "TalkingHead",
+      "game": "Crash 3 Hub",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "تهكم كورتكس الأول في غرفة الزمن (قبل تايني)",
+      "en": "Crash, Crash, Crash... Why must you always muck in my mud? Oh, look! I have a mask helping me, too! We will find out which one is more powerful soon enough.",
+      "ar": "كراش، كراش، كراش... لماذا تصر دوما على إفساد مخططاتي؟ أوه، انظر! لدي قناع يساعدني أنا أيضا! سنكتشف عما قريب أيهما أقوى."
+    },
+    {
+      "id": "VO_NPC_AkuAku_LOC_8",
+      "category": "TalkingHead",
+      "game": "Crash 3 Hub",
+      "speaker_en": "Aku Aku",
+      "speaker_ar": "أكو أكو",
+      "context": "شرح طور تحدي الوقت (Time Trial) في كراش 3",
+      "en": "Crash, Coco, if you have already retrieved a level crystal, then you will find a floating clock when you enter for the second time. This floating clock activates Time Trial mode! Grab it and the clock will start ticking. Race for the end to get the best time, but beware — some elements will change.",
+      "ar": "كراش، كوكو، إذا كنتما قد استعدتما بلورة المرحلة بالفعل، فستجدان ساعة عائمة عند دخولكما للمرة الثانية. تفعل هذه الساعة العائمة طور تحدي الوقت! التقطاها ليبدأ عداد الوقت بالدوران، وتسابقا نحو النهاية لتحقيق أفضل زمن، ولكن احذرا — فبعض العناصر ستتغير."
+    },
+    {
+      "id": "VO_NPC_AkuAku_LOC_9",
+      "category": "TalkingHead",
+      "game": "Crash 3 Hub",
+      "speaker_en": "Aku Aku",
+      "speaker_ar": "أكو أكو",
+      "context": "بعد هزيمة تايني وفتح الغرفة الزمنية الثانية",
+      "en": "Well done, children. By defeating Tiny, you have unlocked the gate to the next time travel area. Go back to the center of this Time Twister and save your progress if you wish. From there, you will see that the gate to the second time travel area is now open.",
+      "ar": "أحسنتما يا أبنائي! بهزيمتكما لتايني، فتحتما البوابة إلى منطقة السفر عبر الزمن التالية. عودا إلى مركز آلة ثني الزمن واحفظا تقدمكما إن شئتما، ومن هناك سترين أن البوابة نحو منطقة السفر عبر الزمن الثانية قد فتحت الآن."
+    },
+    {
+      "id": "VO_NPC_AkuAku_LOC_10",
+      "category": "TalkingHead",
+      "game": "Crash 3 Hub",
+      "speaker_en": "Aku Aku",
+      "speaker_ar": "أكو أكو",
+      "context": "تحذير أكو أكو في غرفة الزمن من خطر أوكا أوكا",
+      "en": "Crash, Coco, remember: it is not only Dr. Cortex that we battle. Beware of Uka Uka, my children! He is a far more dangerous enemy than anyone can imagine.",
+      "ar": "كراش، كوكو، تذكرا: نحن لا نواجه الدكتور كورتكس وحده. احذرا من أوكا أوكا يا أبنائي! إنه عدو أشد خطورة بكثير مما يمكن لأي أحد أن يتخيله."
+    },
+    {
+      "id": "VO_Boss_TinyTiger_LOC_209",
+      "category": "TalkingHead",
+      "game": "Crash 3 Hub",
+      "speaker_en": "Tiny Tiger",
+      "speaker_ar": "تايني تايغر",
+      "context": "تحدي تايني تايغر 1",
+      "en": "Uka Uka and Cortex want Tiny get crystals, and bring them to big colosseum room! Crash! Leave them for Tiny... or Crash get CRUSHED!",
+      "ar": "أوكا أوكا وكورتكس يريدان من تايني جلب البلورات وإحضارها إلى ساحة الكولوسيوم الكبيرة! يا كراش! اتركها لتايني... وإلا فسيسحق كراش سحقا!"
+    },
+    {
+      "id": "VO_Boss_TinyTiger_LOC_210",
+      "category": "TalkingHead",
+      "game": "Crash 3 Hub",
+      "speaker_en": "Tiny Tiger",
+      "speaker_ar": "تايني تايغر",
+      "context": "تحدي تايني تايغر 2 (دخول المعركة)",
+      "en": "Crash! Coco! Stole the pretty crystals! Tiny take them back in gladiator arena!",
+      "ar": "كراش! كوكو! سرقتما البلورات الجميلة! تايني سيستعيدها في حلبة المصارعين!"
+    },
+    {
+      "id": "VO_Boss_Dingodile_LOC_45",
+      "category": "TalkingHead",
+      "game": "Crash 3 Hub",
+      "speaker_en": "Dingodile",
+      "speaker_ar": "دينغودايل",
+      "context": "تحدي دينغودايل 1",
+      "en": "G'day, mates! Dingodile's the name, and Uka Uka and Cortex gave me orders to bring the crystals to them during the Ice Ages. So give me the goods and shove off, or I'll roast yas!",
+      "ar": "مرحبا يا رفاق! اسمي دينغودايل، وقد أمرني أوكا أوكا وكورتكس أن أحضر إليهما البلورات في العصور الجليدية. لذا سلّماني البضاعة وانصرفا، وإلا فستكونان طعاما مشويا!"
+    },
+    {
+      "id": "VO_Boss_Dingodile_LOC_46",
+      "category": "TalkingHead",
+      "game": "Crash 3 Hub",
+      "speaker_en": "Dingodile",
+      "speaker_ar": "دينغودايل",
+      "context": "تحدي دينغودايل 2 (دخول المعركة)",
+      "en": "Riiight... now you've gone and done it! Them crystals are MINE!",
+      "ar": "حسنا جدا... لقد تماديتما كثيرا الآن! تلك البلورات ملكي وحدي!"
+    },
+    {
+      "id": "VO_Boss_NTropy_LOC_151",
+      "category": "TalkingHead",
+      "game": "Crash 3 Hub",
+      "speaker_en": "Dr. Nefarious Tropy",
+      "speaker_ar": "د. نيفاريوس تروبي",
+      "context": "ظهور د. إن تروبي الأول",
+      "en": "Well, haven’t we gotten far for a pair of fuzzy marsupials! I am Doctor Nefarious Tropy, master of time and the creator of the very Time-Twister machine you see before you! Uka Uka and Dr. Cortex have sent me to end this little charade, so you won’t be leaving my area with the crystals, I swear it!",
+      "ar": "حسنا، ألم تقطعا شوطا بعيدا بالنسبة لزوج من الجرابيات ذات الفراء! أنا الدكتور نيفاريوس تروبي، سيد الزمن وصانع آلة ثني الزمن ذاتها التي ترونها أمامكم! أرسلني أوكا أوكا والدكتور كورتكس لوضع حد لهذه المهزلة الصغيرة، لذا لن تغادرا منطقتي بالبلورات، أعدكما بذلك!"
+    },
+    {
+      "id": "VO_Boss_NTropy_LOC_152",
+      "category": "TalkingHead",
+      "game": "Crash 3 Hub",
+      "speaker_en": "Dr. Nefarious Tropy",
+      "speaker_ar": "د. نيفاريوس تروبي",
+      "context": "تهديد د. إن تروبي الثاني",
+      "en": "So, you pesky little rats aren't going to back off, eh? Just you continue to gather crystals and see what I do!",
+      "ar": "إذن، أنتما أيها الفأران الصغيران المزعجان لن تتراجعا، هاه؟ ما عليكما سوى مواصلة جمع البلورات وستريان ما سأفعله!"
+    },
+    {
+      "id": "VO_Boss_NTropy_LOC_153",
+      "category": "TalkingHead",
+      "game": "Crash 3 Hub",
+      "speaker_en": "Dr. Nefarious Tropy",
+      "speaker_ar": "د. نيفاريوس تروبي",
+      "context": "دخول مواجهة د. إن تروبي",
+      "en": "Hah! You little vermin are way too stupid to understand what you're getting yourselves into! This time, you've done it!",
+      "ar": "هاه! أنتم أيها الحشرات الصغيرة أغبى من أن تدركوا الورطة التي أوقعتم أنفسكم فيها! هذه المرة قد تجاوزتم الحد!"
+    },
+    {
+      "id": "VO_Boss_DrNGin_LOC_56",
+      "category": "TalkingHead",
+      "game": "Crash 3 Hub",
+      "speaker_en": "Dr. N. Gin",
+      "speaker_ar": "د. إن جين",
+      "context": "ظهور د. إن جين في الغرفة الرابعة",
+      "en": "So... Crash Bandicoot, we meet again! Uka Uka and Dr. Cortex want me to teach you a lesson. Well, I made a few modifications to my mechanics since our last encounter... so back off, or be DELETED!",
+      "ar": "إذن... كراش بانديكوت، نلتقي مجددا! يريد مني أوكا أوكا والدكتور كورتكس أن ألقنك درسا. حسنا، لقد أجريت بعض التعديلات على آلياتي منذ لقائنا الأخير... لذا تراجع، وإلا فستُمحى من الوجود!"
+    },
+    {
+      "id": "VO_Boss_DrNGin_LOC_57",
+      "category": "TalkingHead",
+      "game": "Crash 3 Hub",
+      "speaker_en": "Dr. N. Gin",
+      "speaker_ar": "د. إن جين",
+      "context": "دخول مواجهة د. إن جين في الفضاء",
+      "en": "So, you want to go a few rounds? When this is over, we'll see who is obsolete!",
+      "ar": "إذن، أتريد خوض بضع جولات؟ عندما ينتهي هذا، سنرى من فينا الذي عفا عليه الزمن!"
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_100",
+      "category": "Title/Boss",
+      "game": "Crash 1",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "شاشة عنوان كراش 1",
+      "en": "It's Crash Bandicoot!",
+      "ar": "إنه كراش بانديكوت!"
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_101",
+      "category": "Title/Boss",
+      "game": "Crash 2",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "شاشة عنوان كراش 2",
+      "en": "It's Crash Bandicoot 2: Cortex Strikes Back!",
+      "ar": "إنه كراش بانديكوت 2: كورتكس يرد الضربة!"
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_102",
+      "category": "Title/Boss",
+      "game": "Crash 3",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "شاشة عنوان كراش 3",
+      "en": "It's Crash Bandicoot: Warped!",
+      "ar": "إنه كراش بانديكوت: ملتف عبر الزمن!"
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_58",
+      "category": "Title/Boss",
+      "game": "Crash 1 / 2 Boss",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "صرخة كورتكس أثناء المعركة",
+      "en": "Darn you, Crash Bandicoot!",
+      "ar": "تبا لك يا كراش بانديكوت!"
+    },
+    {
+      "id": "VO_Boss_DrCortex_LOC_71",
+      "category": "Title/Boss",
+      "game": "Crash 1 Boss",
+      "speaker_en": "Dr. Neo Cortex",
+      "speaker_ar": "د. نيو كورتكس",
+      "context": "توعد كورتكس عند السقوط",
+      "en": "You haven't seen the last of me, Crash Bandicoot!",
+      "ar": "لم تر نهايتي بعد يا كراش بانديكوت!"
+    },
+    {
+      "id": "VO_Boss_DrNGin_LOC_47",
+      "category": "Title/Boss",
+      "game": "Crash 2 Boss (N. Gin)",
+      "speaker_en": "Dr. N. Gin",
+      "speaker_ar": "د. إن جين",
+      "context": "بداية معركة إن جين في كراش 2",
+      "en": "Like Dr. Cortex said, give the 20 crystals you've collected to ME!",
+      "ar": "كما قال الدكتور كورتكس، سلّم البلورات الـ20 التي جمعتها إلي أنا!"
+    },
+    {
+      "id": "VO_Boss_Dingodile_LOC_39",
+      "category": "Title/Boss",
+      "game": "Crash 3 Boss (Dingodile)",
+      "speaker_en": "Dingodile",
+      "speaker_ar": "دينغودايل",
+      "context": "بداية معركة دينغودايل",
+      "en": "Break out the butter! I'm gonna make toast!",
+      "ar": "أخرجوا الزبدة! سأعدّ بعض الخبز المحمص!"
+    },
+    {
+      "id": "VO_Boss_Dingodile_LOC_44",
+      "category": "Title/Boss",
+      "game": "Crash 3 Boss (Dingodile)",
+      "speaker_en": "Dingodile",
+      "speaker_ar": "دينغودايل",
+      "context": "هزيمة دينغودايل",
+      "en": "Ah, ya thrashed me, mate. No worries — you'll soon be up against much worse!",
+      "ar": "آه، لقد لقّنتني درسا يا صاح. لا بأس — ستواجه قريبا ما هو أسوأ بكثير!"
+    },
+    {
+      "id": "VO_Boss_NTropy_LOC_143",
+      "category": "Title/Boss",
+      "game": "Crash 3 Boss (N. Tropy)",
+      "speaker_en": "Dr. Nefarious Tropy",
+      "speaker_ar": "د. نيفاريوس تروبي",
+      "context": "بداية معركة د. إن تروبي",
+      "en": "Now you're on MY time, you little skunk! Give me the crystals!",
+      "ar": "أنت الآن تلعب في زمني أنا أيها الظربان الصغير! أعطني البلورات!"
+    },
+    {
+      "id": "VO_Boss_NTropy_LOC_150",
+      "category": "Title/Boss",
+      "game": "Crash 3 Boss (N. Tropy)",
+      "speaker_en": "Dr. Nefarious Tropy",
+      "speaker_ar": "د. نيفاريوس تروبي",
+      "context": "هزيمة د. إن تروبي",
+      "en": "My time is up, but yours soon will be too...",
+      "ar": "لقد انتهى وقتي، ولكن وقتك سينتهي قريبا أيضا..."
+    },
+    {
+      "id": "VO_Boss_UkaUka_LOC_211",
+      "category": "Title/Boss",
+      "game": "Crash 3 Final Boss",
+      "speaker_en": "Uka Uka",
+      "speaker_ar": "أوكا أوكا",
+      "context": "أثناء معركة الزعيم الأخير ضد كورتكس وأوكا أوكا",
+      "en": "Crash Bandicoot! For the last time, give the crystals to ME!",
+      "ar": "كراش بانديكوت! للمرة الأخيرة، سلّم البلورات إلي أنا!"
+    },
+    {
+      "id": "VO_Boss_UkaUka_LOC_225",
+      "category": "Title/Boss",
+      "game": "Crash 3",
+      "speaker_en": "Uka Uka",
+      "speaker_ar": "أوكا أوكا",
+      "context": "نص غير مستخدم / حوار القوة القصوى لأوكا أوكا",
+      "en": "Yes, it is true! The Bandicoot has brought all of the crystals and all of the gems to me! Ultimate power is mine! The world as we know it is about to end!",
+      "ar": "نعم، هذا صحيح! لقد أحضر لي البانديكوت جميع البلورات وجميع الجواهر! صارت القوة المطلقة ملكي! العالم كما نعرفه على وشك الانتهاء!"
+    },
+    {
+      "id": "VO_Boss_UkaUka_LOC_227",
+      "category": "Title/Boss",
+      "game": "Game Over Screen",
+      "speaker_en": "Uka Uka",
+      "speaker_ar": "أوكا أوكا",
+      "context": "انتهاء المحاولات (Game Over)",
+      "en": "Game Over.",
+      "ar": "انتهت اللعبة."
+    }
+  ],
+  "stats": {
+    "base_ui_entries": 434,
+    "total_pak_entries": 672,
+    "pak_size_bytes": 20575324,
+    "pak_sha256": "3f76b84345418d2edb6d8bcf1126f6fee2ffebce93bcc22254bd67977d36af8a",
+    "spoken_cutscenes_count": 14,
+    "shot_ui_igz_patched": 44,
+    "subtitle_cues_injected": 96,
+    "subtitle_lng_injected": 96,
+    "unique_arabic_codepoints": 118,
+    "missing_glyphs": [],
+    "talking_heads_transcribed_and_translated": 35,
+    "boss_and_title_loc_transcribed_and_translated": 13,
+    "sample_strip_png": "C:\\Users\\Admin\\.gemini\\antigravity\\scratch\\crash-nst-arabic\\workspace\\logs\\all_cutscenes_sample_strip.png",
+    "installer_exit_code": 0
+  }
+}
