@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+backups/
+workspace/extracted/
+workspace/logs/
+workspace/tools/texconv.exe
+workspace/tools/fonts/*.ttf
+package/data/update.pak
+release_stage/
+*.pak
+*.zip
