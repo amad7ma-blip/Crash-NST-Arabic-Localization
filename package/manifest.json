@@ -1,11 +1,11 @@
 {
   "name": "Crash Bandicoot N. Sane Trilogy - Arabic Localization",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "V7dt1 / axxx503",
   "target_exe": "CrashBandicootNSaneTrilogy.exe",
   "override_relpath": "archives\\update.pak",
-  "update_pak_size": 20043850,
-  "update_pak_sha256": "27c1a2abcfec6936949c065a07cf569f2ac08821d8dab6ebc103e7b862cc5210",
+  "update_pak_size": 20575324,
+  "update_pak_sha256": "3f76b84345418d2edb6d8bcf1126f6fee2ffebce93bcc22254bd67977d36af8a",
   "baseline_file_count": 179,
   "core_original_hashes": {
     "CrashBandicootNSaneTrilogy.exe": "170c61d37fb5277dd94b3e41f7a918f227b76bc67aa338f5c97f63ac317b6af3",
@@ -32,5 +32,6 @@
       "name": "Changa",
       "license": "SIL Open Font License 1.1"
     }
-  ]
+  ],
+  "cutscene_subtitles_count": 96
 }
